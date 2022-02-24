@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/40805576/154398796-fab45146-06a8-4538-83ff-1be419aa3601.png)
 ![image](https://user-images.githubusercontent.com/40805576/154398834-0f6258d2-3a6b-4075-89f0-e85c861c8e9a.png)
 
-# 201-web-project: A Smart Shopping Site
+# 201 Web Project: A Smart Shopping Site
 The website allows users to search fashion items based on combination of specified colors (a color palette), so users can easily find suitable items for their target outfit.
 
 # tech notes
